@@ -63,5 +63,5 @@ jobs:
       - name: Upload kernel to artifact
         uses: actions/upload-artifact@v4
         with:
-          name: output_kernel
+          name: Nightmare_kernel_4.14 Begonia-Stable
           path: AnyKernel3/*
